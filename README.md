@@ -1,6 +1,6 @@
 ### Hi I´m Diana Andrade 👋
 #### Backend Developer 
-I made this project just for fun.
+
 
 Skills: Python / SQL / DJANGO/
 
