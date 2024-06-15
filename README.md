@@ -1,5 +1,5 @@
 ### Hi I´m Diana Andrade 👋
-#### Backend Developer 
+#### Data Science
 
 
 Skills: Python / SQL / DJANGO/
