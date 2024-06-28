@@ -2,7 +2,7 @@
 #### Data Science
 
 
-Skills: Python / SQL / DJANGO/
+Skills: Python / SQL /
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python 
