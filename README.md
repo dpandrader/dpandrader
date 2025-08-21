@@ -4,6 +4,7 @@
 
 Data Scientist | Python | Machine Learning | SQL | NLP
 
+-En la ciencia de datos se descubren patrones ocultos en la información, convirtiendo datos en conocimiento que impulsa la innovación. Más allá de las herramientas, aprendes a pensar de manera analítica, resolver problemas complejos y generar impacto real en las decisiones de una organización.
 - Entusiasta de la Ciencia de Datos con experiencia en proyectos prácticos 
 - Aprendiendo y practicando con lenguajes como python y modelos de machine learning
   
