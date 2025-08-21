@@ -2,7 +2,7 @@
 #### Data Science
 
 
-Skills: Python / SQL /
+Skills: Data Scientist | Python | SQL | Machine Learning
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python 
