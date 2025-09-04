@@ -1,11 +1,6 @@
 ### Hola soy Diana 👋
-#### Data Science
-
-
-Data Scientist | Python | Machine Learning | SQL | NLP
 
 Soy Científica de Datos con formación en química y experiencia en desarrollo de productos y control de calidad en la industria cosmética y farmacéutica.
-
 Después de varios años trabajando en laboratorios e I+D, decidí dar el salto al mundo de la tecnología para combinar lo mejor de ambos mundos: datos + ciencia aplicada.
 
 🔍 En este GitHub encontrarás proyectos sobre:
