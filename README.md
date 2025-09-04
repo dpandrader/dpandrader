@@ -1,7 +1,7 @@
-### Hola soy Diana 👋
+### Hola soy Diana Andrade 👋
 
+<img width="1584" height="396" alt="banner github 01" src="https://github.com/user-attachments/assets/62c4a9fe-4be8-48f1-a78f-ddd22bcf0623" />
 
-<img width="1584" height="396" alt="banner github" src="https://github.com/user-attachments/assets/64dbee38-2795-46e6-bc41-f8e8078ad0c5" />
 
 Soy Científica de Datos con formación en química y experiencia en desarrollo de productos y control de calidad en la industria cosmética y farmacéutica.
 Después de varios años trabajando en laboratorios e I+D, decidí dar el salto al mundo de la tecnología para combinar lo mejor de ambos mundos: datos + ciencia aplicada.
