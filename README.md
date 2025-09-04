@@ -17,7 +17,9 @@ Después de varios años trabajando en laboratorios e I+D, decidí dar el salto 
 
 ⚡ Fun fact: Me apasiona explorar cómo la ciencia de datos puede ayudar a crear productos más sostenibles y procesos de calidad más eficientes en industrias como la química, la farmacéutica y los alimentos.
 
-<img alt="Static Badge" src="https://img.shields.io/badge/python-8A2BE2">
+<img alt="Static Badge" src="https://img.shields.io/badge/python-8A2BE2"> <img alt="Static Badge" src="https://img.shields.io/badge/SQL-FFFFOo"> <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-AB2A3E">
+
+
 
 
   
