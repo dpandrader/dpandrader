@@ -1,6 +1,8 @@
 ### Hola soy Diana Andrade 👋
 
-<img width="1584" height="396" alt="banner github 01" src="https://github.com/user-attachments/assets/62c4a9fe-4be8-48f1-a78f-ddd22bcf0623" />
+
+<img width="1584" height="396" alt="Banner Verde" src="https://github.com/user-attachments/assets/dd1a7856-582c-4c44-89cd-5d44bbadc0d0" />
+
 
 
 Soy Científica de Datos con formación en química y experiencia en desarrollo de productos y control de calidad en la industria cosmética y farmacéutica.
